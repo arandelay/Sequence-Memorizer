@@ -1,3 +1,3 @@
-# Sequence-Memorizer
+USE ONLINE
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/arandelay/Sequence-Memorizer)
+https://stackblitz.com/~/github.com/arandelay/Sequence-Memorizer
