@@ -1,3 +1,2 @@
 USE ONLINE
-
-https://stackblitz.com/~/github.com/arandelay/Sequence-Memorizer
+https://boisterous-kringle-947e45.netlify.app
